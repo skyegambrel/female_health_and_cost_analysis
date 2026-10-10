@@ -4,12 +4,12 @@ An exploratory data analysis investigating the correlation between the female se
 ##Key Insights
 * **Males vs Females:** Males actually pay higher insurance rates on average than females, regardless of any other factors, by roughly $1,400.
 * **The Bell Curve:** Females with one child and 5 children paid roughly the same average in insurance rate, with those with no children paying the least on average and those with 3 paying the most on average.
-* **Equal BMIs:** No matter the number of children, females showed roughly the same average BMI, with a small, likely insignificant higher average in those with two children than any other number.
+* **Equal BMIs:** Mean BMI remained relatively stable across all groups, suggesting that number of children has no statistically significant effect on average BMI in this dataset.
 
 ##Visualizations Showcase
 
 ![Cost vs Number of Children](cost_and_children.png)
-*Figure 1: Comparative cost analysis showing slight skewed bell curve over number of children.*
+*Figure 1: Comparative cost analysis showing a non-linear trend between insurance cost and number of children, peaking at 3 children before declining.*
 
 ![BMI vs Number of Children](bmi_and_children.png)
 *Figure 2: Comparative health metric analysis against number of chilren.*
