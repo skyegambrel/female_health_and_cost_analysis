@@ -7,10 +7,11 @@ An exploratory data analysis investigating the correlation between the female se
 * **Equal BMIs:** No matter the number of children, females showed roughly the same average BMI, with a small, likely insignificant higher average in those with two children than any other number.
 
 ##Visualizations Showcase
-![Cost vs Number of Children](cost_vs_children.png)
+
+![Cost vs Number of Children](cost_and_children.png)
 *Figure 1: Comparative cost analysis showing slight skewed bell curve over number of children.*
 
-![BMI vs Number of Children](bmi_vs_children.png)
+![BMI vs Number of Children](bmi_and_children.png)
 *Figure 2: Comparative health metric analysis against number of chilren.*
 
 ##Data Stack & Methodology
