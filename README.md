@@ -1,4 +1,4 @@
-#Female Health and Cost Analysis
+##Female Health and Cost Analysis
 An exploratory data analysis investigating the correlation between the female sex and various medical related variables such as US Medical Insurance rate, and BMI. 
 
 ##Key Insights
@@ -18,6 +18,9 @@ An exploratory data analysis investigating the correlation between the female se
 * **Language:** Python
 * **Libraries:** Pandas (data manipulation), Seaborn & Matplotlib (advanced data visualization)
 * **Dataset:** Sourced from Kaggle, the Medical Cost Personal Dataset from the *Machine Learning with R* book by Brett Lantz.
+
+##Sources
+*The dataset used in this project is the **Medical Cost Personal Dataset**, originally sourced from the textbook [*Machine Learning with R*] by Brett Lantz and hosted on [Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance).
 
 ##Questions Addressed
 1. Do females, regardless of any other factor, pay higher, lower, or equal insurance rates than males?
