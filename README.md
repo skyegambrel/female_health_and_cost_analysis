@@ -20,7 +20,7 @@ An exploratory data analysis investigating the correlation between the female se
 * **Dataset:** Sourced from Kaggle, the Medical Cost Personal Dataset from the *Machine Learning with R* book by Brett Lantz.
 
 ##Sources
-*The dataset used in this project is the **Medical Cost Personal Dataset**, originally sourced from the textbook [*Machine Learning with R*] by Brett Lantz and hosted on [Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance).
+* The dataset used in this project is the **Medical Cost Personal Dataset**, originally sourced from the textbook [*Machine Learning with R*] by Brett Lantz and hosted on [Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance).
 
 ##Questions Addressed
 1. Do females, regardless of any other factor, pay higher, lower, or equal insurance rates than males?
